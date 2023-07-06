@@ -1,0 +1,20 @@
+/* This is the comment format for CSS */
+/*This is where we add the standard formatting for the html webpage. 
+ * Essentially, this page carries all the formatting details for what a,
+ * for example, headline looks like vs a paragraph, ect.  Then the 
+ * HTML document puts the webpage itself together */
+h1 {
+	color: #13264D;
+	font-size: 36px;
+	}
+body {
+	font-family: Arial, sans-serif;
+	background-color:#f2f2f2;
+	}
+
+p {
+	color: #666;
+	font-size: 18px;
+	}
+
+
